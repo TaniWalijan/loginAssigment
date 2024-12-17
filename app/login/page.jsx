@@ -36,7 +36,7 @@ export default function Login() {
           </button>
         </form>
         <p className="text-sm text-center text-gray-300">
-           Don&#39;t have an account?{' '}
+        Don&#39;t have an account?{' '}
           <Link href="/signup">Sign up</Link>
         </p>
       </div>
